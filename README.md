@@ -131,7 +131,7 @@ To install NumPy:
   </tr>
   <tr>
     <td> DS18B20 </td>
-    <td> Temperature Sensor </td> 
+    <td> temperature sensor </td> 
     <td> 1 </td>
     <td> Adafruit </td>
   </tr>
@@ -148,7 +148,7 @@ To install NumPy:
     <td> Adafruit </td>
   </tr>
   <tr>
-    <td> 12mm E Support button </td>
+    <td> 12mm ESUPPORT button </td>
     <td> pack of 5 </td> 
     <td> 1 </td>
     <td> Amazon </td>
@@ -160,8 +160,8 @@ To install NumPy:
     <td> Amazon </td>
   </tr>
   <tr>
-    <td> EWP3502HT6V </td>
-    <td> high temp pump/food grade </td> 
+    <td> EWP-3502HT6V </td>
+    <td> high temp pump, food grade </td> 
     <td> 1 </td>
     <td> Amazon </td>
   </tr>
@@ -172,8 +172,8 @@ To install NumPy:
     <td> Amazon </td>
   </tr>
   <tr>
-    <td> 0.96 OLED 128x64 </td>
-    <td> SSD1306 </td> 
+    <td> 0.96" OLED 128x64 </td>
+    <td> SSD1306 driver </td> 
     <td> 1 </td>
     <td> Amazon </td>
   </tr>
