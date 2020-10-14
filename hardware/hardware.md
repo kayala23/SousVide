@@ -12,29 +12,140 @@
 
 ## List of Parts
 
-|  Part  |  Description  |  Qty  |  Source  |  
-|-|-|-|-|
-|  2W 1.5k ohm resistor  |   |  1  |  Mouser  |  
-|  2W 15k ohm resistor  |   |  2  |  Mouser  |  
-|  2W 2.4k ohm resistor  |   |  1  |  Mouser  |  
-|  2W 180 ohm resistor  |   |  1  |  Mouser  |  
-|  1/4W 1k ohm resistor  |   |  1  |  Santa Barbara Electronics  |  
-|  1/4W 220 ohm resistor  |   |  1  |  Santa Barbara Electronics  |  
-|  0.01μF capacitor  |  filtering capacitor  |  1  |  Mouser  |  |
-|  H11AA1  |  zero cross detection optocoupler  |  1  |  Mouser  |  
-|  MOC3021  |  TRIAC firing optocoupler  |  1  |  Mouser  |  
-|  Q6015L5  |  15A TRIAC  |  1  |  Mouser  |  
-|  2N5551  |  NPN transistor  |  1  |  Mouser  |  
-|  634-20ABPE  |  TRIAC heat sink  |  1  |  Mouser  |  
-|  709-IRM10-5  |  5V 2A 10W power supply  |  1  |  Mouser  |  
-|  DS18B20  |  temperature sensor  |  1  |  Adafruit  |  
-|  Raspberry Pi Zero  |   |  1  |  Adafruit  |  
-|  Proto Bonnet  |   |  1  |  Adafruit  |  
-|  12mm ESUPPORT button  |  pack of 5  |  1  |  Amazon  |  
-|  Tolako 5V Relay  |   |  1  |  Amazon  |  
-|  EWP-3502HT6V  |  high temp pump, food grade  |  1  |  Amazon  |  
-|  1500W Heat Element  |   |  1  |  Amazon  |  
-|  0.96" OLED 128x64  |  SSD1306 driver  |  1  |  Amazon  |  
+<table style="width:100%">
+  <tr>
+    <th> Part </th>
+    <th> Description </th> 
+    <th> Qty </th>
+    <th> Source </th>
+  </tr>
+  <tr>
+    <td> 2W 1.5k ohm resistor </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> 2W 15k ohm resistor </td>
+    <td> </td> 
+    <td> 2 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> 2W 2.4k ohm resistor </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> 2W 180 ohm resistor </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> 1/4W 1k ohm resistor </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Santa Barbara Electronics </td>
+  </tr>
+  <tr>
+    <td> 1/4W 220 ohm resistor </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Santa Barbara Electronics </td>
+  </tr>
+  <tr>
+    <td> 0.01&#956F </td>
+    <td> filtering capacitor </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> H11AA1 </td>
+    <td> zero cross detection optocoupler </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> MOC3021 </td>
+    <td> TRIAC firing optocoupler </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> Q6015L5 </td>
+    <td> 15A TRIAC </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> 2N5551 </td>
+    <td> NPN transistor </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> 634-20ABPE </td>
+    <td> TRIAC heat sink </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> 709-IRM10-5 </td>
+    <td> 5V 2A 10W power supply </td> 
+    <td> 1 </td>
+    <td> Mouser </td>
+  </tr>
+  <tr>
+    <td> DS18B20 </td>
+    <td> temperature sensor </td> 
+    <td> 1 </td>
+    <td> Adafruit </td>
+  </tr>
+  <tr>
+    <td> Raspberry Pi Zero </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Adafruit </td>
+  </tr>
+  <tr>
+    <td> Proto Bonnet </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Adafruit </td>
+  </tr>
+  <tr>
+    <td> 12mm ESUPPORT button </td>
+    <td> pack of 5 </td> 
+    <td> 1 </td>
+    <td> Amazon </td>
+  </tr>
+  <tr>
+    <td> Tolako 5V Relay </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Amazon </td>
+  </tr>
+  <tr>
+    <td> EWP-3502HT6V </td>
+    <td> high temp pump, food grade </td> 
+    <td> 1 </td>
+    <td> Amazon </td>
+  </tr>
+  <tr>
+    <td> 1500W Heat Element </td>
+    <td> </td> 
+    <td> 1 </td>
+    <td> Amazon </td>
+  </tr>
+  <tr>
+    <td> 0.96" OLED 128x64 </td>
+    <td> SSD1306 driver </td> 
+    <td> 1 </td>
+    <td> Amazon </td>
+  </tr>
+</table>
 
 
 
