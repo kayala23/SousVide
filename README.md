@@ -5,6 +5,8 @@ This repository contains programs to create a user interface and control the Sou
 
 The goal of this project was to build a functioning Sous Vide device that maintains a bath of water at a constant, user specified temperature for use in precison cooking. The SousVide.py program creates a user interface to a Proportional Integral Derivative (PID)/phaseangle controlled heating element. This hardware/software combinations allows a user to precisely control the temperature of a water bath.
 
+For a more thorough description, see the [final project report](SousVide_ProjectReport.pdf).
+
 
 ## Software
 Necessary software for the SousVide.py program includes the RPi.GPIO module, the w1thermsensor module,the Adafruit Python SSD1306 library, the Python PID module, the Python Imaging Library, and the NumPylibrary.  This software must be installed for the program to operate.
