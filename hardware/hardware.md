@@ -1,4 +1,4 @@
-
+# External Hardware
 
 <img src="/hardware/pics/SV1.jpeg" alt="drawing" width="600"/>
 <em> User interface display and push buttons. </em> <br/>
@@ -10,7 +10,7 @@
 <em> Sous Vide device in use. </em> <br/>
 
 
-## External Hardware
+## List of Parts
 
 |  Part  |  Description  |  Qty  |  Source  |  
 |-|-|-|-|
