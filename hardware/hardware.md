@@ -2,13 +2,15 @@
 
 <img src="/hardware/pics/SV1.jpeg" alt="drawing" width="600"/>
 <em> User interface display and push buttons. </em> <br/>
+<br>
 
 <img src="/hardware/pics/SV2.jpeg" alt="drawing" width="400"/>
 <em> Completed Sous Vide device. </em> <br/>
+<br>
 
 <img src="/hardware/pics/SV3.jpeg" alt="drawing" width="400"/>
 <em> Sous Vide device in use. </em> <br/>
-
+<br>
 
 ## List of Parts
 
