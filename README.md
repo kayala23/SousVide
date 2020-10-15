@@ -1,4 +1,4 @@
-# SousVide
+# sous-vide
 This repository contains programs to create a user interface and control the Sous Vide hardware.
 
 <hr>
